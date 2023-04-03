@@ -1,10 +1,8 @@
+𝗡𝗼𝘁𝗶𝗰𝗲 ▶𝗗𝗼𝗻𝘁 𝗜𝗺𝗽𝗼𝗿𝘁 𝗥𝗲𝗽𝗼 𝗙𝗼𝗿𝗸 𝗥𝗲𝗽𝗼 𝗮𝗻𝗱 𝗽𝘂𝗯𝗹𝗶𝗰 𝗿𝗲𝗽𝗼 𝗜𝗳 𝘆𝗼𝘂 𝗜𝗺𝗽𝗼𝗿𝘁 𝗶𝘁 𝗶𝘀 𝗻𝗼𝘁 🚫 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝗻𝗱 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗻𝗼𝘁 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 👍 𝗧𝗵𝗶𝘀 𝗶𝘀 𝗣𝘂𝗯𝗹𝗶𝗰 𝗦𝗼𝘂𝗿𝗰𝗲 🆗
 <h2 align="center">
-    ──「 🥰 laila-music player 🥰 」──
+    ──「 𝙉𝙤𝙤𝙗 ✘ 𝙘𝙤𝙙𝙚𝙧 ᵖʳᵒ 」──
 </h2>
 
-<p align="center">
-  <img src="https://telegra.ph/file/a73c91d6717285a8481d1.jpg">
-</p>
 
 <p align="center">
 <a href="https://dashboard.heroku.com/new?template=https://github.com/lavkush639214/laila-majanu-player-"><img src="https://img.shields.io/github/stars/lavkush639214/laila-majanu-player?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
@@ -15,14 +13,14 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/a73c91d6717285a8481d1.jpg">
+  <img src="https://telegra.ph//file/5add999f427d1060949b9.jpg">
 </p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Noobxcoders/NoobMusic/tree/master"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-<p align="center"><a href="https://github.com/lavkush639214/VC-PLAYER"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
@@ -61,10 +59,9 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/pagal_faimly"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Noobxcoders"><img src="https://img.shields.io/badge/-Support%20Group-green.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/feelings_of_lav"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Noobxcoders"><img src="https://img.shields.io/badge/-Support%20Channel-pink.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
-
